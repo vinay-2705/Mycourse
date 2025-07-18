@@ -1,3 +1,0 @@
-java is independent of platforms
-
-new change
